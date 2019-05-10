@@ -1,0 +1,9 @@
+C:\Projects\RhinoDox.JobDefinition\RhinoDox.JobDefinition.Domain\bin\Debug\netstandard2.0\RhinoDox.JobDefinition.Domain.deps.json
+C:\Projects\RhinoDox.JobDefinition\RhinoDox.JobDefinition.Domain\bin\Debug\netstandard2.0\RhinoDox.JobDefinition.Domain.dll
+C:\Projects\RhinoDox.JobDefinition\RhinoDox.JobDefinition.Domain\bin\Debug\netstandard2.0\RhinoDox.JobDefinition.Domain.pdb
+C:\Projects\RhinoDox.JobDefinition\RhinoDox.JobDefinition.Domain\obj\Debug\netstandard2.0\RhinoDox.JobDefinition.Domain.csprojAssemblyReference.cache
+C:\Projects\RhinoDox.JobDefinition\RhinoDox.JobDefinition.Domain\obj\Debug\netstandard2.0\RhinoDox.JobDefinition.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\RhinoDox.JobDefinition\RhinoDox.JobDefinition.Domain\obj\Debug\netstandard2.0\RhinoDox.JobDefinition.Domain.AssemblyInfoInputs.cache
+C:\Projects\RhinoDox.JobDefinition\RhinoDox.JobDefinition.Domain\obj\Debug\netstandard2.0\RhinoDox.JobDefinition.Domain.AssemblyInfo.cs
+C:\Projects\RhinoDox.JobDefinition\RhinoDox.JobDefinition.Domain\obj\Debug\netstandard2.0\RhinoDox.JobDefinition.Domain.dll
+C:\Projects\RhinoDox.JobDefinition\RhinoDox.JobDefinition.Domain\obj\Debug\netstandard2.0\RhinoDox.JobDefinition.Domain.pdb

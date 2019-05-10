@@ -1,0 +1,22 @@
+{
+  "DaemonConfig": {
+    "DaemonName": "Job Definition",
+    "DomainName": "job-definition",
+    "RabbitMQUri": "amqp://guest:guest@localhost:5672",
+    "Monitoring": {
+      "SearchPattern": "*.zip",
+      "SleepTimeInMilliseconds": 5000
+    },
+    "DatabaseConnectionString": "Server=localhost;Port=5432;Database=postgres;User Id=postgres;Password=postgres;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Debug",
+      "System": "Information",
+      "Microsoft": "Information"
+    },
+    "Console": {
+      "IncludeScopes": true
+    }
+  }
+}

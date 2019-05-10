@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RhinoDox.JobDefinition.Hosts.Worker", "RhinoDox.JobDefinition.Hosts.Worker\RhinoDox.JobDefinition.Hosts.Worker.csproj", "{058A52AE-15D2-4E87-AA64-5B372019C749}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RhinoDox.JobDefinition.Domain", "RhinoDox.JobDefinition.Domain\RhinoDox.JobDefinition.Domain.csproj", "{6FB61A06-2002-4942-BEEC-A60B4BB69141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{058A52AE-15D2-4E87-AA64-5B372019C749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{058A52AE-15D2-4E87-AA64-5B372019C749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{058A52AE-15D2-4E87-AA64-5B372019C749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{058A52AE-15D2-4E87-AA64-5B372019C749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FB61A06-2002-4942-BEEC-A60B4BB69141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FB61A06-2002-4942-BEEC-A60B4BB69141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FB61A06-2002-4942-BEEC-A60B4BB69141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FB61A06-2002-4942-BEEC-A60B4BB69141}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4D21C8E-FAB3-4AC7-8378-B6A2C8ED1166}
+	EndGlobalSection
+EndGlobal

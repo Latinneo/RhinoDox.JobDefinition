@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\RhinoDox.JobDefinition\\RhinoDox.JobDefinition.Hosts.Worker\\RhinoDox.JobDefinition.Hosts.Worker.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\RhinoDox.JobDefinition\\RhinoDox.JobDefinition.Domain\\RhinoDox.JobDefinition.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\RhinoDox.JobDefinition\\RhinoDox.JobDefinition.Domain\\RhinoDox.JobDefinition.Domain.csproj",
+        "projectName": "RhinoDox.JobDefinition.Domain",
+        "projectPath": "C:\\Projects\\RhinoDox.JobDefinition\\RhinoDox.JobDefinition.Domain\\RhinoDox.JobDefinition.Domain.csproj",
+        "packagesPath": "C:\\Users\\ariel.dellano\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\RhinoDox.JobDefinition\\RhinoDox.JobDefinition.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ariel.dellano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/rhinodox/auth/eb045c48-324d-4181-9f3f-76514387fe1c/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "FluentNHibernate": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "MsBuild.ProtocolBuffers": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[4.0.6, )"
+            },
+            "RhinoDox.Core.V2.Audit": {
+              "target": "Package",
+              "version": "[0.1.5, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Projects\\RhinoDox.JobDefinition\\RhinoDox.JobDefinition.Hosts.Worker\\RhinoDox.JobDefinition.Hosts.Worker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\RhinoDox.JobDefinition\\RhinoDox.JobDefinition.Hosts.Worker\\RhinoDox.JobDefinition.Hosts.Worker.csproj",
+        "projectName": "RhinoDox.JobDefinition.Hosts.Worker",
+        "projectPath": "C:\\Projects\\RhinoDox.JobDefinition\\RhinoDox.JobDefinition.Hosts.Worker\\RhinoDox.JobDefinition.Hosts.Worker.csproj",
+        "packagesPath": "C:\\Users\\ariel.dellano\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\RhinoDox.JobDefinition\\RhinoDox.JobDefinition.Hosts.Worker\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ariel.dellano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/rhinodox/auth/eb045c48-324d-4181-9f3f-76514387fe1c/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Projects\\RhinoDox.JobDefinition\\RhinoDox.JobDefinition.Domain\\RhinoDox.JobDefinition.Domain.csproj": {
+                "projectPath": "C:\\Projects\\RhinoDox.JobDefinition\\RhinoDox.JobDefinition.Domain\\RhinoDox.JobDefinition.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.CommandLine": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Configuration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.EventSource": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "RhinoDox.Core.V2.Messaging": {
+              "target": "Package",
+              "version": "[0.1.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

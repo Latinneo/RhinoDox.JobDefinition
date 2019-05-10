@@ -1,0 +1,15 @@
+C:\Projects\RhinoDox.JobDefinition\RhinoDox.JobDefinition.Hosts.Worker\obj\Debug\netcoreapp2.1\RhinoDox.JobDefinition.Hosts.Worker.csproj.CoreCompileInputs.cache
+C:\Projects\RhinoDox.JobDefinition\RhinoDox.JobDefinition.Hosts.Worker\obj\Debug\netcoreapp2.1\RhinoDox.JobDefinition.Hosts.Worker.AssemblyInfoInputs.cache
+C:\Projects\RhinoDox.JobDefinition\RhinoDox.JobDefinition.Hosts.Worker\obj\Debug\netcoreapp2.1\RhinoDox.JobDefinition.Hosts.Worker.AssemblyInfo.cs
+C:\Projects\RhinoDox.JobDefinition\RhinoDox.JobDefinition.Hosts.Worker\bin\Debug\netcoreapp2.1\config.json
+C:\Projects\RhinoDox.JobDefinition\RhinoDox.JobDefinition.Hosts.Worker\bin\Debug\netcoreapp2.1\RhinoDox.JobDefinition.Hosts.Worker.deps.json
+C:\Projects\RhinoDox.JobDefinition\RhinoDox.JobDefinition.Hosts.Worker\bin\Debug\netcoreapp2.1\RhinoDox.JobDefinition.Hosts.Worker.runtimeconfig.json
+C:\Projects\RhinoDox.JobDefinition\RhinoDox.JobDefinition.Hosts.Worker\bin\Debug\netcoreapp2.1\RhinoDox.JobDefinition.Hosts.Worker.runtimeconfig.dev.json
+C:\Projects\RhinoDox.JobDefinition\RhinoDox.JobDefinition.Hosts.Worker\bin\Debug\netcoreapp2.1\RhinoDox.JobDefinition.Hosts.Worker.dll
+C:\Projects\RhinoDox.JobDefinition\RhinoDox.JobDefinition.Hosts.Worker\bin\Debug\netcoreapp2.1\RhinoDox.JobDefinition.Hosts.Worker.pdb
+C:\Projects\RhinoDox.JobDefinition\RhinoDox.JobDefinition.Hosts.Worker\obj\Debug\netcoreapp2.1\RhinoDox.JobDefinition.Hosts.Worker.dll
+C:\Projects\RhinoDox.JobDefinition\RhinoDox.JobDefinition.Hosts.Worker\obj\Debug\netcoreapp2.1\RhinoDox.JobDefinition.Hosts.Worker.pdb
+C:\Projects\RhinoDox.JobDefinition\RhinoDox.JobDefinition.Hosts.Worker\obj\Debug\netcoreapp2.1\RhinoDox.JobDefinition.Hosts.Worker.csprojAssemblyReference.cache
+C:\Projects\RhinoDox.JobDefinition\RhinoDox.JobDefinition.Hosts.Worker\bin\Debug\netcoreapp2.1\RhinoDox.JobDefinition.Domain.dll
+C:\Projects\RhinoDox.JobDefinition\RhinoDox.JobDefinition.Hosts.Worker\bin\Debug\netcoreapp2.1\RhinoDox.JobDefinition.Domain.pdb
+C:\Projects\RhinoDox.JobDefinition\RhinoDox.JobDefinition.Hosts.Worker\obj\Debug\netcoreapp2.1\RhinoDox.JobDefinition.Hosts.Worker.csproj.CopyComplete

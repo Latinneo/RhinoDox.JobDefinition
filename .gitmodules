@@ -1,0 +1,3 @@
+[submodule "RhinoDox.JobDefinition.Domain/Contracts/RhinoDox.JobDefinition.Proto"]
+	path = RhinoDox.JobDefinition.Domain/Contracts/RhinoDox.JobDefinition.Proto
+	url = git@github.com:RhinoDox/RhinoDox.JobDefinition.Proto.git
